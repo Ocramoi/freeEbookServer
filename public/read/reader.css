@@ -1,0 +1,23 @@
+#reader {
+    width: 90%;
+    margin: 0 auto;
+    height: 80vh;
+    position: relative;
+}
+
+.pageBut {
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    margin: 5px;
+    font-size: 3rem;
+    cursor: pointer;
+}
+
+#leftBut {
+    left: 0;
+}
+
+#rightBut {
+    right: 0;
+}

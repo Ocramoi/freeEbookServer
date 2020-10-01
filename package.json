@@ -1,0 +1,9 @@
+{
+    "name": "freeebookserver",
+    "version": "0.1",
+    "author": "Marco Toledo",
+    "scripts": {
+        "start": "node ./server.js",
+        "setup": "node ./addBooks.js"
+    }
+}
